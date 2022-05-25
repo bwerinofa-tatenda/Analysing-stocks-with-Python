@@ -1,1 +1,1 @@
-# Quantitative-Investing-with-Python
+# Stock analysis using python

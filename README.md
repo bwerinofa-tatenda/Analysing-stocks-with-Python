@@ -1,1 +1,1 @@
-# Stock analysis using python
+# Analysing-stocks-with-Python
